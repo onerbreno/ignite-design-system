@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/onerbreno.png',
     alt: 'Breno Dias',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
