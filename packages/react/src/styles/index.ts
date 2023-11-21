@@ -1,4 +1,4 @@
-import { colors, fontSizes, fontWeights, lineHeights, radii, space } from '@ignite-ui/tokens';
+import { colors, fontSizes, fontWeights, lineHeights, radii, space } from '@onerbreno-ignite-ui/tokens';
 import { fonts } from './../../../tokens/src/fonts';
 import { createStitches, defaultThemeMap } from "@stitches/react";
 

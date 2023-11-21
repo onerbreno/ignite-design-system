@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@onerbreno-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,9 +11,9 @@
     "build": "storybook build && touch ./storybook-static/.nojekyll"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@onerbreno-ignite-ui/eslint-config": "*",
+    "@onerbreno-ignite-ui/react": "*",
+    "@onerbreno-ignite-ui/tokens": "*",
     "@storybook/addon-a11y": "7.4.2",
     "phosphor-react": "1.4.1",
     "polished": "4.2.2",
