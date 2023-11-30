@@ -1,10 +1,10 @@
 import type { StoryObj, Meta } from '@storybook/react'
+import { Box } from '@onerbreno-ignite-ui/react/src/components/Box'
+import { Text } from '@onerbreno-ignite-ui/react/src/components/Text'
 import {
-  Box,
-  Text,
   TextInput,
   TextInputProps,
-} from '@onerbreno-ignite-ui/react'
+} from '@onerbreno-ignite-ui/react/src/components/TextInput'
 
 export default {
   title: 'Form/Text Input',
