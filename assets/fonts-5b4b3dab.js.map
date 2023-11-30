@@ -1,0 +1,1 @@
+{"version":3,"file":"fonts-5b4b3dab.js","sources":["../../../tokens/src/fonts.ts"],"sourcesContent":["export const fonts = {\n  default: 'Roboto, sans-serif',\n  code: 'monospace',\n}\n"],"names":["fonts"],"mappings":"AAAO,MAAMA,EAAQ,CACnB,QAAS,qBACT,KAAM,WACR"}
